@@ -28,6 +28,7 @@ Magic 8-Ball's answer: Better not tell you now
 
 
 **HOW TO PLAY**
+
 type your question and shake the magic 8 ball
 to shake the ball, you can simply tap on the ball or click the 'Shake the Magic 8-Ball' button..
 
